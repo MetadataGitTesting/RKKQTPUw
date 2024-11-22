@@ -1,0 +1,57 @@
+name: pricilla.jenkins
+description: implementation
+version: 0.0.1
+author: oeazgko0.bl77gkkn@kquiink2.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: pricillajenkins
+  parentArtefactID: team1732307071214
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:24:32'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:24:32'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:24:32.317413Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '1070742493'
+  createdAt: '2024-11-22T20:24:32.317413Z'
+  type: plibMaven
+projectDependencies:
+  '404':
+    projectUID: 404
+    projectName: niki.lind
+    repositoryPath: gitUri=http://gitserver:3000/dev_LVJPjVoA_team_654/dev_LVJPjVoA_project_404.git&subPath=
+    version: niki.lind/1.4.9.241
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 20:24:32'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
